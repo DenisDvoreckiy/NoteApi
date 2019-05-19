@@ -1,0 +1,14 @@
+C:\Users\днс\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\NoteApi.deps.json
+C:\Users\днс\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\NoteApi.runtimeconfig.json
+C:\Users\днс\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\NoteApi.runtimeconfig.dev.json
+C:\Users\днс\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\NoteApi.dll
+C:\Users\днс\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\NoteApi.pdb
+C:\Users\днс\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\NoteApi.csprojAssemblyReference.cache
+C:\Users\днс\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\NoteApi.csproj.CoreCompileInputs.cache
+C:\Users\днс\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\NoteApi.AssemblyInfoInputs.cache
+C:\Users\днс\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\NoteApi.AssemblyInfo.cs
+C:\Users\днс\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\NoteApi.dll
+C:\Users\днс\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\NoteApi.pdb
+C:\Users\днс\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\NoteApi.RazorAssemblyInfo.cache
+C:\Users\днс\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\NoteApi.RazorAssemblyInfo.cs
+C:\Users\днс\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\NoteApi.RazorTargetAssemblyInfo.cache
